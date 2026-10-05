@@ -6,6 +6,8 @@ readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
     "jupyterlab>=4.6.4",
+    "matplotlib>=3.11.2",
+    "pandas>=3.0.6",
     "torch>=2.14.1",
     "torchvision>=0.29.1",
 ]
